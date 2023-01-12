@@ -21,7 +21,7 @@
                     @auth()
                         @if(\Illuminate\Support\Facades\Auth::user()->role == 'admin')
                             <li class="nav-item">
-                                <a class="nav-link fs-6 fw-bold text-white" href="{{ route('admin') }}">Администирование</a>
+                                <a class="nav-link fs-6 fw-bold text-white" href="#">Администирование</a>
                             </li>
                         @endif
                         <li class="nav-item">

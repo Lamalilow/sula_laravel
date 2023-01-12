@@ -14,8 +14,8 @@
 <div class="container">
     <div class="row mt-lg-4">
         <div class="col">
-            <a class="btn btn-primary" href="{{ route('createPlane') }}">Добавить самолет</a>
-            <a class="btn btn-primary" href="{{ route('createFlight') }}">Добавить рейс</a>
+            <a class="btn btn-primary" href="#">Добавить 1</a>
+            <a class="btn btn-primary" href="#">Добавить 2</a>
         </div>
     </div>
 </div>

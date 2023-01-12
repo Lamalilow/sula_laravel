@@ -5,21 +5,17 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class UserSetting extends Model
+class Results extends Model
 {
     use HasFactory;
 
     protected $fillable = [
-        'user_id',
-        'search_age_from',
-        'search_age_to',
-        'search_male',
-        'search_female'
+        'user_one',
+        'user_two'
     ];
 
     public function user()
     {
-        return $this->belongsTo('App\Models\User');
+        return $this->belongsTo('App\Model\User', 'user_one');
     }
-
 }
