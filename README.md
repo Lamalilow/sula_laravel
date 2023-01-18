@@ -9,7 +9,7 @@ PHP ^8.0
 
 For starting project:
 
-php composer.phar install
-php artisan storage:link
-php artisan migrate:fresh --seed
+<p>php composer.phar install</p>
+<p>php artisan storage:link</p>
+<p>php artisan migrate:fresh --seed</p>
 
