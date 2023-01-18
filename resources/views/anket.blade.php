@@ -11,7 +11,7 @@
             @else
                 <div class="row justify-content-center">
                     <div class="col-6 text-right">
-                            <img class="d-block w-100" src="{{'public/storage/'.$otherUser->info->photo }}" alt="фото профиля">
+                            <img class="d-block w-100" src="{{'/../storage/'.$otherUser->info->photo }}" alt="фото профиля">
 
                     </div>
                     <div class="col-6">

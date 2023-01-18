@@ -77,7 +77,7 @@ class DatabaseSeeder extends Seeder
             В свободное время я люблю смотреть телевизор.
             Также люблю читать книги.
             Мой любимый писатель - это Стивен Кинг.',
-            'photo' => 'dsdsdsdsdsdsdefe.jpg',
+            'photo' => 'qoRIfFG9gyNISJdb3ep5sJ00JxvMtlAhHUYGnggu.jpg',
         ]);
         UserSetting::insert([
             'user_id' => '2',
@@ -108,7 +108,7 @@ class DatabaseSeeder extends Seeder
             В свободное время я люблю смотреть телевизор.
             Также люблю читать книги.
             Мой любимый писатель - это Стивен Кинг.',
-            'photo' => 'dsdsdsdsdsdsdefe.jpg',
+            'photo' => 'D9hu5M5TpVD8KVo2yQ6v4E5vqn2RwpZfoYe8hD5X.jpg',
         ]);
         UserSetting::insert([
             'user_id' => '3',
@@ -139,7 +139,7 @@ class DatabaseSeeder extends Seeder
             В свободное время я люблю смотреть телевизор.
             Также люблю читать книги.
             Мой любимый писатель - это Стивен Кинг.',
-            'photo' => 'dsdsdsd.jpg',
+            'photo' => 'D9hu5M5TpVD8KVo2yQ6v4E5vqn2RwpZfoYe8hD5X.jpg',
         ]);
         UserSetting::insert([
             'user_id' => '4',
@@ -170,7 +170,7 @@ class DatabaseSeeder extends Seeder
             В свободное время я люблю смотреть телевизор.
             Также люблю читать книги.
             Мой любимый писатель - это Стивен Кинг.',
-            'photo' => 'dsdsdsd.jpg',
+            'photo' => 'D9hu5M5TpVD8KVo2yQ6v4E5vqn2RwpZfoYe8hD5X.jpg',
         ]);
         UserSetting::insert([
             'user_id' => '5',
